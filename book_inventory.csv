@@ -1,0 +1,37 @@
+﻿Title,Author,Branch,Price (₹),Copies
+Introduction to Algorithms,"Cormen, Leiserson, Rivest",Computer Science,1200,4
+Clean Code,Robert C. Martin,Computer Science,950,3
+Computer Networks,Andrew S. Tanenbaum,Computer Science,850,2
+Operating Systems Concepts,"Silberschatz, Galvin",Computer Science,1100,3
+Artificial Intelligence: A Modern Approach,"Stuart Russell, Peter Norvig",Computer Science,1500,2
+Database System Concepts,Abraham Silberschatz,Computer Science,1000,3
+Heat and Mass Transfer,Yunus A. Çengel,Chemical,900,3
+Chemical Engineering Thermodynamics,"Smith, Van Ness",Chemical,1200,2
+Elements of Chemical Reaction Engineering,H. Scott Fogler,Chemical,1300,2
+Transport Phenomena,"Bird, Stewart, Lightfoot",Chemical,1400,2
+Coulson & Richardson's Chemical Engineering,Sinnott,Chemical,1500,2
+Process Systems Analysis and Control,Coughanowr,Chemical,950,3
+Pattern Recognition and Machine Learning,Christopher Bishop,AI & Data Science,1300,3
+Deep Learning,"Ian Goodfellow, Yoshua Bengio",AI & Data Science,1600,2
+Machine Learning: A Probabilistic Perspective,Kevin Murphy,AI & Data Science,1800,2
+Reinforcement Learning: An Introduction,Sutton & Barto,AI & Data Science,1400,2
+Probabilistic Graphical Models,Daphne Koller,AI & Data Science,1700,2
+Practical Natural Language Processing,Sowmya Vajjala,AI & Data Science,1200,3
+Strength of Materials,R.K. Bansal,Civil,750,3
+Building Materials,S.K. Duggal,Civil,850,2
+Design of Concrete Structures,Arthur H. Nilson,Civil,950,2
+Soil Mechanics and Foundations,B.C. Punmia,Civil,900,2
+Water Resources Engineering,Larry W. Mays,Civil,1100,2
+Transportation Engineering,C.S. Papacostas,Civil,1000,3
+Theory of Machines,S.S. Rattan,Mechanical,800,3
+Engineering Thermodynamics,P.K. Nag,Mechanical,1200,2
+Machine Design,V.B. Bhandari,Mechanical,1100,2
+Fluid Mechanics,Frank M. White,Mechanical,1300,2
+Manufacturing Processes,Mikell P. Groover,Mechanical,1500,2
+Mechanical Vibrations,Singiresu S. Rao,Mechanical,1400,2
+Electrical Machines,P.S. Bimbhra,Electrical,900,3
+Power System Analysis,Hadi Saadat,Electrical,1100,2
+Electrical Circuit Analysis,Hayt & Kemmerly,Electrical,850,2
+Power Electronics,Muhammad H. Rashid,Electrical,1200,2
+Control Systems Engineering,Norman S. Nise,Electrical,1400,2
+Signals and Systems,Alan V. Oppenheim,Electrical,1300,2
